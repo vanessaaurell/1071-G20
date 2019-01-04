@@ -1,4 +1,4 @@
-#include "head.h"
+#include "G20.h"
 
 /* display program instructions to user */
 void instructions( void )
